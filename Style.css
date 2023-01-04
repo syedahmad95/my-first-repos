@@ -1,0 +1,9 @@
+p{
+    background-color: rgba(250, 235, 215, 0.527);
+    color: red;
+    text-align: justify;
+}
+h1{
+    background-color: rgba(0, 255, 255, 0.425);
+    display: inline-block;
+}
